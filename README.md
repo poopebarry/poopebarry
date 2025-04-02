@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @poopebarry
-- 🌱 I’m currently learning, how to code with java and python.
+- 🌱 I’m currently learning how to code with HTML, CSS, and JAVA
